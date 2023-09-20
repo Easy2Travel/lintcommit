@@ -1,0 +1,2 @@
+# lintcommit
+lintcommit description
