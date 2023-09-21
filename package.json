@@ -1,0 +1,15 @@
+{
+  "name": "lintcommit",
+  "version": "1.0.0",
+  "description": "commitment for lint",
+  "main": "index.js",
+  "repository": "git@github.com:Easy2Travel/lintcommit.git",
+  "author": "sagarstha254 <sagarstha254@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3"
+  }
+}
